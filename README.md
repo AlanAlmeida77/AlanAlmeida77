@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Almeida</h1>
-<h3 align="center">A Full-Stack developer from Argentina!</h3>
+<h3 align="center">I'm Alan Almeida, a fullstack developer looking for my first opportunity in the world of technology. From an early age, I have a vocation for computing and have always been interested in how technology can improve people's lives. So far in my life, I have faced challenges like being diagnosed with type 1 diabetes at age 21. This experience gave me a new perspective and the ability to face obstacles with determination and adaptability.</h3>
 
 - 🌱 I’m currently learning **TypeScript and Angular framework**
 
