@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm Alan Almeida, a fullstack developer looking for my first opportunity in the world of technology. From an early age, I have a vocation for computing and have always been interested in how technology can improve people's lives. So far in my life, I have faced challenges like being diagnosed with type 1 diabetes at age 21. This experience gave me a new perspective and the ability to face obstacles with determination and adaptability.</h3>
+<h3 align="center">I'm Alan Almeida, a Full-Stack web developer focused in the Front-end. From an early age, I have a vocation for computing and have always been interested in how technology can improve people's lives. So far in my life, I have faced challenges like being diagnosed with type 1 diabetes at age 21. This experience gave me a new perspective and the ability to face obstacles with determination and adaptability.</h3>
 
 - 🌱 I’m currently learning **TypeScript and NextJS**
 
 - 📫 How to reach me **davidalanalmeida@gmail.com**
 
-- ⚡ Fun fact **I'm a poet and a musician for hobby and i love history and literature**
+- ⚡ Fun fact **I like to write poetry and i love history and literature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
