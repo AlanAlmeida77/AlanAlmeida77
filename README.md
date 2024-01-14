@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **davidalanalmeida@gmail.com**
 
-- ⚡ Fun fact **I like to write poetry and i love history and literature**
+- ⚡ Fun fact **I like to write poetry and i love history**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
